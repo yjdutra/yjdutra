@@ -8,4 +8,4 @@
 - 🌱 I’m currently learning Html, Js, CSS, Node, React/React-native 
 - 🕹 Fun fact: High School's 2012 tekken 3 champion !!
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" widht='50px' height='50px'/>
