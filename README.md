@@ -4,8 +4,8 @@
 
 
 
-- ⌨ I’m currently working at Bristom !
-- 🌱 I’m currently learning Html, Js, CSS, Node, React/React-native 
+- ⌨ I’m currently working at Smartek !
+- 🌱 I’m Full Stack developer
 - 🕹 Fun fact: High School's 2012 tekken 3 champion !!
 
 <div>
